@@ -6,6 +6,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     //我写了欢迎页 张洪猛
+    //wo张洪猛第二次又写了网络拉取
     private String name = "张洪猛" ;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
